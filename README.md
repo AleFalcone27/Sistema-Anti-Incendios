@@ -18,11 +18,10 @@ Además, se mostrará la temperatura actual y la estación del año en un displa
 - Su movimieto simula al de un aspersor de techo
 ### Protoboard para realizar las conexiones
 - Hace que quede todo mucho mas ordenado
-### LED de estado (Azul) 🔵
+### LED de estado (Azul) 
 - Se encuentra montado en la esquina superior derecha del Lcd e indica el estado del sistema (encendido o apagado)
-### LED de alarma (Rojo) 🔴
+### LED de alarma (Rojo) 
 - Se cuentra montado en la esquina superior izquierda de nuestro Lcd y se prende en caso de incendio 
 
-
-
-
+## PREVIEW 🔍
+![img](min-y-max.png)
