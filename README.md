@@ -1,6 +1,6 @@
 # SISTEMA ANTI-INCENDIOS 🚨
 
-----------------
+---
 
 ## OBJETIVO DEL PROYECTO 📑
 #### 
@@ -8,7 +8,7 @@
 detectar cambios de temperatura y activar un servo motor en caso de detectar un incendio.
 Además, se mostrará la temperatura actual y la estación del año en un display LCD**
 #### 
- 
+
 ## MATERIALES UTILIZADOS 🔧
 ### Sensor de temperatura
 - Leé constantemente la temperatura 
@@ -25,11 +25,21 @@ Además, se mostrará la temperatura actual y la estación del año en un displa
 ### LED de alarma (Rojo) 
 - Se cuentra montado en la esquina superior izquierda de nuestro Lcd y se prende en caso de incendio 
 
+---
+
 ## PREVIEW DEL PROYECTO 🔍
 ![img](preview.png)
 
 ## VISTA ESQUEMATICA 📐
 ![img](Vistaesquematica.png) 
+
+---
+El proyecto me parecio ==bastante copado==. Los desafios que mas tiempo que consumieron fueron:
+1. Poder leer las señales del control IR y guardarlas en una variable para despues hacer la comparación por cada una de las estaciones
+2.  Agregar la funcionalidad para que se apague y se prenda (estuve literalmente 9 horas reloj).
+Mas alla de esto pude terminarlo y me gusto mucho el resultado final...
+**Espero les guste** 
+---
 
 ### ENLACES AL PROYECTO
 ## [GDB](https://onlinegdb.com/HAFM3ZeGAx) 
