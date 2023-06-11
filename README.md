@@ -30,5 +30,5 @@ Además, se mostrará la temperatura actual y la estación del año en un displa
 ![img](Vistaesquematica.png) 
 
 ### ENLACES AL PROYECTO
-## ![GDB](https://onlinegdb.com/HAFM3ZeGAx) 
-## ![TINKERCAD](https://onlinegdb.com/HAFM3ZeGAx) 
+## [GDB](https://onlinegdb.com/HAFM3ZeGAx) 
+## [TINKERCAD](https://onlinegdb.com/HAFM3ZeGAx) 
