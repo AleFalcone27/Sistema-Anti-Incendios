@@ -24,4 +24,4 @@ Además, se mostrará la temperatura actual y la estación del año en un displa
 - Se cuentra montado en la esquina superior izquierda de nuestro Lcd y se prende en caso de incendio 
 
 ## PREVIEW 🔍
-![img](min-y-max.png)
+![img](preview.png)
