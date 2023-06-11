@@ -27,4 +27,4 @@ Además, se mostrará la temperatura actual y la estación del año en un displa
 ![img](preview.png)
 
 ## VISTA ESQUEMATICA 📐
-![img](Vista esquematica.png) 
+![img](Vistaesquematica.png) 
