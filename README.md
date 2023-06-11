@@ -1,4 +1,4 @@
-# Sistema-anti-Incendios 🔥🚒
+# Sistema-anti-Incendios 🔥
 
 ##                        OBJETIVO DEL PROYECTO 📑
 #### 
