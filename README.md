@@ -5,6 +5,7 @@
 Diseñar un sistema de incendio utilizando Arduino que pueda
 detectar cambios de temperatura y activar un servo motor en caso de detectar un incendio.
 Además, se mostrará la temperatura actual y la estación del año en un display LCD. 
+#### 
 
 ## MATERIALES UTILIZADOS:
 ### Sensor de temperatura
