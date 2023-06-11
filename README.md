@@ -1,4 +1,4 @@
-# Sistema-anti-Incendios 🔥
+# Sistema-anti-Incendios 🚨
 
 ##                        OBJETIVO DEL PROYECTO 📑
 #### 
@@ -23,8 +23,12 @@ Además, se mostrará la temperatura actual y la estación del año en un displa
 ### LED de alarma (Rojo) 
 - Se cuentra montado en la esquina superior izquierda de nuestro Lcd y se prende en caso de incendio 
 
-## PREVIEW 🔍
+## PREVIEW DEL PROYECTO 🔍
 ![img](preview.png)
 
 ## VISTA ESQUEMATICA 📐
 ![img](Vistaesquematica.png) 
+
+### ENLACES AL PROYECTO
+## ![GDB](https://onlinegdb.com/HAFM3ZeGAx) 
+## ![TINKERCAD](https://onlinegdb.com/HAFM3ZeGAx) 
