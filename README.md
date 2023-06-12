@@ -25,7 +25,7 @@ Diseñar un sistema de detección de incendios utilizando Arduino que pueda dete
 
 ---
 ```
-El proyecto me pareció bastante copado*. Los desafíos que más tiempo me consumieron fueron:
+El proyecto me pareció bastante copado. Los desafíos que más tiempo me consumieron fueron:
 1- Poder leer las señales del control IR y guardarlas en una variable para luego hacer la comparación 
 por cada una de las estaciones.
 2- Agregar la funcionalidad para encender y apagar el sistema (estuve literalmente 9 horas para sacarlo).
