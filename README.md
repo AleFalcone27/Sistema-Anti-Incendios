@@ -11,7 +11,6 @@ Además, se mostrará la temperatura actual y la estación del año en un displa
 ---
 
 ## MATERIALES UTILIZADOS 🔧
-
 - **Sensor de temperatura:** Leé constantemente la temperatura 
 - **Control remoto IR (Infrarrojo):** Para controlar el sistema de una forma mas comoda
 - **Display LCD:** Muestra la temperatrua, la estacion del año y una alerta en caso de incendio
@@ -29,12 +28,13 @@ Además, se mostrará la temperatura actual y la estación del año en un displa
 ![img](Vistaesquematica.png) 
 
 ---
+``
 El proyecto me parecio *bastante copado*. Los desafios que mas tiempo que consumieron fueron:
 **1.** Poder leer las señales del control IR y guardarlas en una variable para despues hacer la comparación por cada una de las estaciones
 **2.**  Agregar la funcionalidad para que se apague y se prenda (estuve literalmente 9 horas reloj).`
 #### Mas alla de esto pude terminarlo y me gusto mucho el resultado final...
 **espero les guste** 
-
+``
 ---
 
 ### ENLACES AL PROYECTO
@@ -42,4 +42,3 @@ El proyecto me parecio *bastante copado*. Los desafios que mas tiempo que consum
 #### - [TINKERCAD](https://onlinegdb.com/HAFM3ZeGAx) 
 
 
-``
