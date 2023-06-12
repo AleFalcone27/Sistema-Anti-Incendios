@@ -36,7 +36,7 @@ Mas alla de esto pude terminarlo y me gusto mucho el resultado final... espero l
 ``
 ---
 
-### ENLACES AL PROYECTO
+### **ENLACES AL PROYECTO**
  - [GDB](https://onlinegdb.com/HAFM3ZeGAx) 
  - [TINKERCAD](https://onlinegdb.com/HAFM3ZeGAx) 
 
