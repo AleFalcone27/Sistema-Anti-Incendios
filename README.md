@@ -30,8 +30,8 @@ Además, se mostrará la temperatura actual y la estación del año en un displa
 ---
 ``
 El proyecto me parecio *bastante copado*. Los desafios que mas tiempo que consumieron fueron:
-1. Poder leer las señales del control IR y guardarlas en una variable para despues hacer la comparación por cada una de las estaciones
-2.  Agregar la funcionalidad para que se apague y se prenda (estuve literalmente 9 horas reloj).`
+1- Poder leer las señales del control IR y guardarlas en una variable para despues hacer la comparación por cada una de las estaciones
+2-  Agregar la funcionalidad para que se apague y se prenda (estuve literalmente 9 horas reloj).`
 Mas alla de esto pude terminarlo y me gusto mucho el resultado final... espero les guste 
 ``
 ---
