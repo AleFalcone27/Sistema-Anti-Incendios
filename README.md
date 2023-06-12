@@ -11,13 +11,12 @@ Además, se mostrará la temperatura actual y la estación del año en un displa
 ---
 
 ## MATERIALES UTILIZADOS 🔧
-### Sensor de temperatura #### Leé constantemente la temperatura 
-### Control remoto IR (Infrarrojo) #### Para controlar el sistema de una forma mas comoda
-
-### Display LCD (16x2 caracteres)
- Muestra la temperatrua, la estacion del año y una alerta en caso de incendio
-### Servo motor
-Su movimieto simula al de un aspersor de techo
+``
+Sensor de temperatura: Leé constantemente la temperatura 
+Control remoto IR (Infrarrojo):Para controlar el sistema de una forma mas comoda
+Display LCD: Muestra la temperatrua, la estacion del año y una alerta en caso de incendio
+Servo motor: Su movimieto simula al de un aspersor de techo
+``
 ### Protoboard para realizar las conexiones
 Hace que quede todo mucho mas ordenado
 ### LED de estado (Azul) 
