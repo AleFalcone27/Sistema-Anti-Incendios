@@ -1,12 +1,14 @@
 # SISTEMA ANTI-INCENDIOS 🚨
 
 ---
-``
+
 ## OBJETIVO DEL PROYECTO 📑
 #### 
+``
 **Diseñar un sistema de incendio utilizando Arduino que pueda
 detectar cambios de temperatura y activar un servo motor en caso de detectar un incendio.
 Además, se mostrará la temperatura actual y la estación del año en un display LCD**
+``
 #### 
 
 ## MATERIALES UTILIZADOS 🔧
@@ -24,7 +26,7 @@ Además, se mostrará la temperatura actual y la estación del año en un displa
 - Se encuentra montado en la esquina superior derecha del Lcd e indica el estado del sistema (encendido o apagado)
 ### LED de alarma (Rojo) 
 - Se cuentra montado en la esquina superior izquierda de nuestro Lcd y se prende en caso de incendio 
-
+s
 ---
 
 ## PREVIEW DEL PROYECTO 🔍
