@@ -15,7 +15,6 @@ Diseñar un sistema de detección de incendios utilizando Arduino que pueda dete
 - **Protoboard:** Permite que nuestro circuito esté más ordenado.
 - **LED de estado (Azul):** Se encuentra montado en la esquina superior derecha del LCD e indica el estado del sistema (encendido o apagado).
 - **LED de alarma (Rojo):** Se encuentra montado en la esquina superior izquierda de nuestro LCD y se enciende en caso de incendio.
-
 ---
 
 ## PREVIEW DEL PROYECTO 🔍
