@@ -35,4 +35,4 @@ Más allá de esto, pude terminarlo y estoy muy contento con el resultado final.
 
 ### **ENLACES AL PROYECTO**
 - [GDB](https://onlinegdb.com/HAFM3ZeGAx)
-- [TINKERCAD](https://onlinegdb.com/HAFM3ZeGAx)
+- [TINKERCAD](https://www.tinkercad.com/things/dAv7IBmX945)
